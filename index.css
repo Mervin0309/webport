@@ -1,0 +1,32 @@
+*{
+	padding:0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "poppins", sans-serif;
+}
+.Profile{
+	margin-bottom: 1rem;
+}
+.main h1{
+	font-size: 3rem;
+	font-weight: 500;
+	color: black;
+
+}
+.main{
+	background:url(background1.jpg)no-repeat;
+	background-size: cover;
+	min-height: 95vh;
+	width: 100%;
+	margin-bottom: 1rem;
+}
+.Tools{
+	background: url(bnwbg.webp) no-repeat;
+	background-size: cover;
+	min-height: 95vh;
+	width: 100%;
+	margin-bottom: 3rem;
+}
+.contact{
+	border-color: black;
+}
